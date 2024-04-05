@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
- [Correct Example 1](https://bu-ie-360.github.io/spring24-sefakambur/IE_360_SEFA_KAMBUR.pdf): The .pdf file is in the same location with your index file.
+ [PDF](https://bu-ie-360.github.io/spring24-sefakambur/IE_360_SEFA_KAMBUR.pdf): The .pdf file is in the same location with your index file.
 * [Correct Example 2](https://bu-ie-360.github.io/sefakambur/files/IE_360_HW1.html): The .html file is in a folder called files and this folder is in the same location with your index file.
 
 
